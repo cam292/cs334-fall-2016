@@ -1,0 +1,31 @@
+/*
+  Craig Mazzotta
+  cs334
+  lab 6
+*/
+*{
+    font-size:12px;
+}
+body{
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+h1{
+  font-size:5em;
+}
+h3{
+  font-size:1em;
+}
+span.fb{
+  color:red;
+}
+span.f{
+  color:gold;
+}
+span.b{
+  color:blue;
+}
+span.i{
+  color:gray;
+}

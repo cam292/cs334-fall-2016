@@ -1,0 +1,28 @@
+body {
+  width: 60%;
+  margin: auto;
+  line-height: 30px;
+}
+.button {
+  text-align: center;
+}
+button {
+  background-color: blue;
+  color: white;
+  width: 150px;
+  height: 50px;
+}
+button:hover {
+  background-color: cyan;
+  color: black;
+  cursor: pointer;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+span {
+  color: red;
+}

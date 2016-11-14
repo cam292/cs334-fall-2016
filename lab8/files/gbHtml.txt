@@ -1,0 +1,21 @@
+
+<!DOCTYPE html >
+<html lang="EN" >
+<head>
+<title></title>
+</head>
+<body>
+<h1>New User:</h1>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Freshman<br>
+A little blurb about you
+</p>
+</body>
+</html>

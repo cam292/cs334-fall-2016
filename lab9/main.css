@@ -1,0 +1,13 @@
+body {
+  width:65%;
+  margin: auto;
+}
+.header {
+  width: 100%;
+  text-align: center;
+}
+
+.left,.right {
+  width: 49%;
+  display: inline-table;
+}

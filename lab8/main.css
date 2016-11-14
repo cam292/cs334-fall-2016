@@ -1,0 +1,29 @@
+/*
+Craig Mazzotta
+cs334
+Lab 8
+*/
+*{
+  font-size:15px;
+  line-height: 20px;
+}
+body{
+  width: 65%;
+  margin: auto;
+  text-align: center;
+}
+h1{
+  font-size: 1.75em;
+}
+h2{
+  font-size: 1.25em;
+}
+form{
+  text-align: left;
+}
+input[type="text"]{
+  margin: 5px;
+}
+ol {
+  text-align: left;
+}

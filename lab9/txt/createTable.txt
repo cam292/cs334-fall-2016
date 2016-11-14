@@ -1,0 +1,20 @@
+Craig Mazzotta
+cs334
+Lab 9
+
+CREATE TABLE customerContact (
+id INT PRIMARY KEY,
+lastName VARCHAR(15),
+firstName VARCHAR(15),
+password VARCHAR(15),
+faceBookUrl VARCHAR(40),
+email VARCHAR(20),
+cellPhone VARCHAR(15),
+homePhone VARCHAR(15),
+addr1 VARCHAR(30),
+addr2 VARCHAR(5),
+city VARCHAR(21),
+state VARCHAR(12),
+zip CHAR(5),
+country VARCHAR(20)
+);

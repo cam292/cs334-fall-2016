@@ -1,0 +1,5 @@
+Craig Mazzotta
+cs334
+Lab 9
+
+SELECT * FROM customerContact;

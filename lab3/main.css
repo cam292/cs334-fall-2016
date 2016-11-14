@@ -1,0 +1,33 @@
+/*
+  Craig Mazzotta
+  Cs334
+  Lab 3 submission
+*/
+* {
+  font-size: 12px;
+}
+body {
+  width: 50%;
+  margin: auto;
+  background-color: red;
+}
+h1 {
+  font-size: 3em;
+  color: white;
+  text-align: center;
+}
+h3 {
+  font-size: 1.75em;
+  color: #d0cccc;
+}
+.tip {
+  border: 2px dashed black;
+  width:75%;
+  margin: auto;
+  text-align: center;
+  font-size: 1.5em;
+  color: white;
+}
+.source {
+  margin-top: 10px;
+}

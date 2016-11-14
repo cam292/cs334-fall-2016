@@ -1,0 +1,25 @@
+/*
+* Craig Mazzotta
+* cs334
+* Lab 7 part 2
+*/
+body{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+fieldset{
+  width: 175px;
+  margin: auto;
+  text-align: center;
+}
+input[type="text"]{
+  width: 65px;
+  margin-right: 5px;
+}
+input[type="submit"]{
+  margin-top:10px;
+}
+ul{
+  text-align: left;
+}

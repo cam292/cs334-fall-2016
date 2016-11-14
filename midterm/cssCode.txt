@@ -1,0 +1,26 @@
+/*
+* Craig Mazzotta
+* cs334
+* Midterm
+*/
+*{
+  font-size: 12px;
+}
+body{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+h1{
+  font-size: 3em;
+}
+h2{
+  font-size: 1.5em;
+}
+table{
+  margin: auto;
+  text-align: left;
+}
+ul {
+  text-align: left;
+}

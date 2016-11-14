@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--
+    Craig Mazzotta
+    cs334
+    lab 4
+    -->
+    <meta charset="utf-8">
+    <title>Craig Mazzotta Lab 4</title>
+    <link rel="stylesheet" href="main.css" media="screen" title="no title">
+  </head>
+  <body>
+
+    <h1>Story</h1>
+
+    <h3>Please fill in the blanks below, and I'll tell you a story</h3>
+
+    <form method="post" action="story.php">
+    <fieldset>
+
+      <label>animal 1:</label>
+      <input type="text" name="anim1" />
+
+      <label>animal 2:</label>
+      <input type="text" name="anim2" />
+
+      <label>animal 3:</label>
+      <input type="text" name="anim3" />
+      <br>
+      <label>a place:</label>
+      <input type="text" name="place1" />
+
+      <label>another place:</label>
+      <input type="text" name="place2" />
+
+      <br>
+      <label>a food: </label>
+      <input type="text" name="food1" />
+
+      <label>another food: </label>
+      <input type="text" name="food2" />
+      <br>
+      <label>action: </label>
+      <select name = "sound">
+        <option value = "oink oink oink">OINK</option>
+        <option value = "woot woot woot">WOOT</option>
+        <option value = "hoopla hoopla hoopla">HOOPLA</option>
+      </select>
+      <br>
+      <div class="button">
+        <button type = "submit">Tell me the story</button>
+      </div>
+
+    </fieldset>
+    </form>
+    <ul>
+      <li><a href="storyPHP.txt">php source code</a></li>
+      <li><a href="index.txt">html source code</a></li>
+      <li><a href="css.txt">css source code</a></li>
+    </ul>
+  </body>
+</html>
